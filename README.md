@@ -7,7 +7,7 @@
 Мои навыки:
 - Языковые модели: ChatGPT, Cloud, Gemini, GigaChat, YandexGPT, DeepSeek и другие;
 - Программирование: Python, Zerocode-инструменты;
-- Инструменты: PyCharm, Cursor, API, LangChain, Make, Google Colab;
+- Инструменты: PyCharm, Cursor, API, LangChain, Make, Google Colab, Yandex Cloud, GigaChat;
 - Обработка данных: поиск, сбор, чистка, анализ, визуализация, интерпритация, выдача практических рекомендаций;
 - Создание ИИ-асситентов и ботов: GPTs, Telegram, VK;
 - Методы машинного обучения: Создание векторных баз данных, сравнение языковых моделей; разработка мульти-агентных и/или мульти-модельных систем
